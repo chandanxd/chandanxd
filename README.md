@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Chandan 👋
 
-<!--
-**chandanxd/chandanxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineering student (BE in Artificial Intelligence & Machine Learning),
+interested in building practical, data-driven machine learning solutions.
+Currently focused on strengthening fundamentals through hands-on projects
+and problem-solving.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Data Structures and Algorithms (DSA)
+- Learning machine learning using scikit-learn
+- Building beginner ML projects
+- Improving Python fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python, SQL
+- scikit-learn, Pandas, NumPy
+- Git & GitHub
+- Jupyter Notebook, VS Code
+
+## Projects
+- **Iris Flower Classification** – Basic supervised learning project using scikit-learn.
+
+## Connect
+- LinkedIn: www.linkedin.com/in/chandan-d-ml
+- Email: buildwithchandan@gmail.com
