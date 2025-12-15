@@ -1,9 +1,6 @@
 # Hi, I'm Chandan 👋
 
-AI/ML Engineering student (BE in Artificial Intelligence & Machine Learning),
-interested in building practical, data-driven machine learning solutions.
-Currently focused on strengthening fundamentals through hands-on projects
-and problem-solving.
+I’m an AI/ML Engineering student (BE in Artificial Intelligence & Machine Learning), currently learning machine learning fundamentals and building small projects to strengthen my understanding of ML workflows.
 
 ## What I'm working on
 - Data Structures and Algorithms (DSA)
