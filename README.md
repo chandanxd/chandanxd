@@ -21,5 +21,5 @@ and problem-solving.
 - **Iris Flower Classification** – Basic supervised learning project using scikit-learn.
 
 ## Connect
-- LinkedIn: www.linkedin.com/in/chandan-d-ml
-- Email: buildwithchandan@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/chandan-d-ml)
+- [Email](mailto:buildwithchandan@gmail.com)
