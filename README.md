@@ -1,22 +1,15 @@
-# Hi, I'm Chandan 👋
+# Hello :)
 
-I’m an AI/ML Engineering student (BE in Artificial Intelligence & Machine Learning), currently learning machine learning fundamentals and building small projects to strengthen my understanding of ML workflows.
+I like to code, play games, and turn my ideas into working software. I'm curious about almost everything.
 
-## What I'm working on
-- Data Structures and Algorithms (DSA)
-- Learning machine learning using scikit-learn
-- Building beginner ML projects
-- Improving Python fundamentals
+- Building: a job application tracker API (FastAPI, PostgreSQL)
+- Playing: Death Stranding
+- Learning: DaVinci Resolve
 
-## Skills
-- Python, SQL
-- scikit-learn, Pandas, NumPy
-- Git & GitHub
-- Jupyter Notebook, VS Code
+Most of what I build is backend: Python and SQL on PostgreSQL. I use HTML, CSS and JavaScript only for frontends. I care about quality, clean work, and building things people are happy to use.
 
-## Projects
-- **Iris Flower Classification** – Basic supervised learning project using scikit-learn.
+Things I've shipped: Ranked Bot, a leaderboard and tournament bot for the [Willey Gaming](https://www.youtube.com/@willey_gaming) community (client work, private repo), and WBB-Forge, a payroll ledger bot for a Clash of Clans base-building business.
 
-## Connect
-- [LinkedIn](https://www.linkedin.com/in/chandan-d-ml)
-- [Email](mailto:buildwithchandan@gmail.com)
+I don't use emojis outside text messages, so you won't find any here.
+
+Contact: [chandanxd@proton.me](mailto:chandanxd@proton.me) · [linkedin.com/in/chandanxd](https://www.linkedin.com/in/chandanxd)
