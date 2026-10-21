@@ -3,7 +3,7 @@
 I like to code, play games, and turn my ideas into working software. I'm curious about almost everything.
 
 - Building: a job application tracker API (FastAPI, PostgreSQL)
-- Playing: Death Stranding
+- Playing: Red Dead Redemption 2
 - Learning: DaVinci Resolve
 
 Most of what I build is backend: Python and SQL on PostgreSQL. I use HTML, CSS and JavaScript only for frontends. I care about quality, clean work, and building things people are happy to use.
